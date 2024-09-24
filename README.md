@@ -8,3 +8,8 @@
 - Уверенное владение Python (pandas, numpy, sklearn, torch, statsmodels, seaborn, matplotlib)
 - Начальное владение SQL
 - Также разбираюсь в сложных возможностях Excel, а также Power Query.
+
+Имею опыт участия в хакатонах:
+- 2 место в хакатоне "Автоматическое выявление навыков из описаний вакансий"
+- 10 место (призовое) Clean Code Cup
+- Ссылка на дипломы: https://drive.google.com/drive/folders/1KFpi0R65VJ5G7-9H0cLGsAyvkOTb3rYs?usp=drive_link
